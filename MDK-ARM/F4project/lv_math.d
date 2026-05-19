@@ -1,0 +1,16 @@
+f4project\lv_math.o: ..\Lvgl\src\misc\lv_math.c
+f4project\lv_math.o: ..\Lvgl\src\misc\lv_math.h
+f4project\lv_math.o: ..\Lvgl\src\misc\../lv_conf_internal.h
+f4project\lv_math.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\stdint.h
+f4project\lv_math.o: ..\Lvgl\src\misc\../lv_conf_kconfig.h
+f4project\lv_math.o: ../Lvgl/examples/porting/../../lv_conf.h
+f4project\lv_math.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+f4project\lv_math.o: D:\keil\Core\ARM\ARMCC\Bin\..\include\stddef.h
+f4project\lv_math.o: ../Core/Inc/FreeRTOSConfig.h
+f4project\lv_math.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+f4project\lv_math.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+f4project\lv_math.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+f4project\lv_math.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+f4project\lv_math.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+f4project\lv_math.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+f4project\lv_math.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
